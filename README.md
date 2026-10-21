@@ -5,6 +5,7 @@
 Network Incident Response Orchestrator is a cybersecurity project designed to automate the incident response (IR) workflow using specialized AI agents and Python-based analysis skills. It processes security alerts, Windows Sysmon logs, and network flow data to correlate evidence, enrich indicators of compromise (IOCs), and generate structured incident reports.
 
 The project is evaluated using the **Splunk Boss of the SOC v1 (BOTSv1)** dataset and focuses on improving investigation efficiency while keeping findings grounded in collected evidence.
+https://github.com/splunk/botsv1
 
 ## Key Features
 
