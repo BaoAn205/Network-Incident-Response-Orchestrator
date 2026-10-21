@@ -1,0 +1,17 @@
+{
+    "ioc": "AAE3F5A29935E6ABCC2C2754D12A9AF0",
+    "type": "hash",
+    "sources": {
+        "virustotal": {
+            "malicious_count": 66,
+            "reputation": -15,
+            "status": "success"
+        },
+        "threatfox": {
+            "malicious_count": 0,
+            "status": "success",
+            "info": "No results found"
+        }
+    },
+    "is_malicious": true
+}

@@ -1,0 +1,21 @@
+{
+    "ioc": "40.80.148.42",
+    "type": "ip",
+    "sources": {
+        "virustotal": {
+            "status": "error_0",
+            "message": "<urlopen error timed out>"
+        },
+        "abuseipdb": {
+            "abuse_score": 0,
+            "total_reports": 0,
+            "status": "success"
+        },
+        "threatfox": {
+            "malicious_count": 0,
+            "status": "success",
+            "info": "No results found"
+        }
+    },
+    "is_malicious": false
+}

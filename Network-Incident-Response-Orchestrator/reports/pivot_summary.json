@@ -1,0 +1,30 @@
+{
+  "total_pivot_recon": 6,
+  "malicious_iocs_count": 3,
+  "malicious_iocs": [
+    {
+      "ioc": "AAE3F5A29935E6ABCC2C2754D12A9AF0",
+      "type": "hash",
+      "virustotal": "success",
+      "abuseipdb_score": "N/A",
+      "threatfox": 0,
+      "file": "recon_pivot_hash_3791_MD5.json"
+    },
+    {
+      "ioc": "65DF73D77324D008C83C3E57B445DF0FD43A3A51",
+      "type": "hash",
+      "virustotal": "success",
+      "abuseipdb_score": "N/A",
+      "threatfox": 0,
+      "file": "recon_pivot_hash_3791_SHA1.json"
+    },
+    {
+      "ioc": "EC78C938D8453739CA2A370B9C275971EC46CAF6E479DE2B2D04E97CC47FA45D",
+      "type": "hash",
+      "virustotal": "success",
+      "abuseipdb_score": "N/A",
+      "threatfox": 0,
+      "file": "recon_pivot_hash_3791_SHA256.json"
+    }
+  ]
+}

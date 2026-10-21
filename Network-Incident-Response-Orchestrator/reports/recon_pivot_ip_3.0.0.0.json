@@ -1,0 +1,22 @@
+{
+    "ioc": "3.0.0.0",
+    "type": "ip",
+    "sources": {
+        "virustotal": {
+            "malicious_count": 0,
+            "reputation": 0,
+            "status": "success"
+        },
+        "abuseipdb": {
+            "abuse_score": 1,
+            "total_reports": 7,
+            "status": "success"
+        },
+        "threatfox": {
+            "malicious_count": 0,
+            "status": "success",
+            "info": "No results found"
+        }
+    },
+    "is_malicious": false
+}

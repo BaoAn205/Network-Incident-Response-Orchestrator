@@ -1,0 +1,13 @@
+
+# Environment variables and secrets
+.env
+
+# Raw logs and large datasets
+logs/
+data/alerts_trigger_botsv1.json
+data/sysmon_logs_botsv1.json
+data/network_streams_botsv1.json
+
+# Python temporary files
+__pycache__/
+*.pyc
